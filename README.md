@@ -1,6 +1,6 @@
 # Talkmore Android
 
-An implementation of android with the integration of [Linphone SDK](https://github.com/olajhidey/talkmore-android.git). 
+An implementation of android with the integration of [Linphone SDK](https://download.linphone.org/releases/docs/liblinphone/latest/java/). 
 The app allows you to make and receive calls from users registered in the talkmore database
 
 ## Features of Talkmore
