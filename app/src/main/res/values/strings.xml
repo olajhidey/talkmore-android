@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Talkmoreapp</string>
+    <string name="app_logo">app_logo</string>
+    <string name="username_text">Username</string>
+    <string name="instruction_label_txt">Enter Username to get started</string>
+    <string name="login_text">Login</string>
+    <string name="register_btn_txt">Register</string>
+    <string name="loading_txt">Loading..</string>
+    <string name="home_text">Home</string>
+    <string name="log_out_text">log out button</string>
+    <string name="log_out">Log out</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
