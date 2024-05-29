@@ -348,7 +348,7 @@ class HomeActivity : AppCompatActivity() {
     }
 
     private fun performOutboundCall(user: UserResponse) {
-        val remoteAddress = "sip:testsip@${user.domain};transport=udp"
+        val remoteAddress = "sip:${user.username}@${user.domain};transport=udp"
         remoteAddress ?: return
 
         val callParams = core.createCallParams(null)
