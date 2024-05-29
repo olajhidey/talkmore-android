@@ -16,4 +16,4 @@ The app allows you to make and receive calls from users registered in the talkmo
   - You might want to create your own backend services for login and register API
 
 ## Screenshots
-<img src="screenshots/1.png" width="200" height="500" alt="login"> <img src="screenshots/3.png" width="200" height="500" alt="dashboard"> <img src="screenshots/2.png" width="200" height="500" alt="incoming"> 
+<img src="screenshots/1.png" width="250" height="500" alt="login"> <img src="screenshots/3.png" width="250" height="500" alt="dashboard"> <img src="screenshots/2.png" width="250" height="500" alt="incoming"> 
